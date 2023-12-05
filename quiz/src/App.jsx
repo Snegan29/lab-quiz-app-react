@@ -7,9 +7,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* <HomeComponent/> */}
+      <HomeComponent/>
       <QuizComponent/>
-      {/* <ResultComponent/> */}
+      <ResultComponent/>
     </div>
   );
 }
